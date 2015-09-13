@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IMOP.iml" filepath="$PROJECT_DIR$/IMOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opinion.iml" filepath="$PROJECT_DIR$/opinion.iml" />
     </modules>
   </component>
 </project>
