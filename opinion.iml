@@ -70,6 +70,7 @@
     <orderEntry type="library" name="Maven: net.sourceforge.argparse4j:argparse4j:0.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty.toolchain.setuid:jetty-setuid-java:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: io.dropwizard:dropwizard-auth:0.7.1" level="project" />
     <orderEntry type="library" name="Maven: io.dropwizard:dropwizard-client:0.7.1" level="project" />
     <orderEntry type="library" name="Maven: com.sun.jersey:jersey-client:1.18.1" level="project" />
     <orderEntry type="library" name="Maven: com.sun.jersey.contribs:jersey-apache-client4:1.18.1" level="project" />

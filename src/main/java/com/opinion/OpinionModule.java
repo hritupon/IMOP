@@ -10,9 +10,11 @@ import com.opinion.core.jedis.RedisPartitionPool;
 import com.opinion.core.managed.Redis;
 import com.opinion.repository.RedisSourceRepository;
 import com.opinion.repository.impl.RedisSourceRepositoryImpl;
+import com.opinion.services.AuthenticationService;
 import com.opinion.services.IngestionService;
 import com.opinion.services.RetrievalService;
 import com.opinion.services.UserService;
+import com.opinion.services.impl.AuthenticationServiceImpl;
 import com.opinion.services.impl.IngestionServiceImpl;
 import com.opinion.services.impl.RetrievalServiceImpl;
 import com.opinion.services.impl.UserServiceImpl;
@@ -74,5 +76,10 @@ public class OpinionModule implements Module {
     @Provides @Singleton
     public RetrievalService provideRetrievalService(RedisSourceRepository redisSourceRepository){
         return new RetrievalServiceImpl(redisSourceRepository);
+    }
+
+    @Provides @Singleton
+    public AuthenticationService provideAuthenticationService(RedisSourceRepository redisSourceRepository){
+        return new AuthenticationServiceImpl(redisSourceRepository);
     }
 }
