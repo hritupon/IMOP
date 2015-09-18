@@ -20,6 +20,8 @@ import javax.validation.constraints.NotNull;
 @AllArgsConstructor
 public class AddFollowerRequest {
 
+    //"userId" will be following the opinions of "follower Id"
+
     @JsonProperty
     @NotNull
     String followerId;

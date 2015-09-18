@@ -10,9 +10,6 @@ import org.slf4j.LoggerFactory;
 
 import java.util.List;
 
-/**
- * Created by sutirtha on 05/09/14.
- */
 public class IngestionServiceImpl implements IngestionService {
 
     private final RedisSourceRepository redisSourceRepository;

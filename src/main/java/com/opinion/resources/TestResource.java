@@ -22,4 +22,11 @@ public class TestResource {
         tr.setTestString("pong");
         return tr;
     }
+    @POST
+    @Path("/post")
+    public TestResponse postTest(@Auth UserDetails userDetails)throws Exception{
+        TestResponse tr=new TestResponse();
+        tr.setTestString("pong");
+        return tr;
+    }
 }

@@ -40,7 +40,7 @@ public class RedisSourceRepositoryImpl implements RedisSourceRepository {
 
 
     private void handleAndLogJedisException(Jedis jedis, JedisConnectionException e, PartitionType partitionType,
-                                             RedisNamespace namespace) {
+                                            RedisNamespace namespace) {
         logger.error("Jedis connection exception: ", e);
         if(jedis != null) {
             if(namespace.equals(RedisNamespace.MASTER)){
@@ -618,36 +618,41 @@ public class RedisSourceRepositoryImpl implements RedisSourceRepository {
         }
         return false;
     }
-    private void addUserToAuth(String userId,String auth){
+    private void addUserToAuth(String userName,String auth){
         PartitionType partitionType = PartitionType.getUserPartition();
         Jedis jedis = redis.getMasterResource(partitionType);
         Pipeline p = jedis.pipelined();
-        String key="user:"+userId;
+        String key="user:"+getUserId(userName);
         p.hset(key,"auth",auth);
         p.sync();
         redis.returnMasterResource(jedis, partitionType);
     }
-    private void addAuthToUser(String userId,String auth){
+
+    private void addAuthToUser(String auth,String userName){
         PartitionType partitionType = PartitionType.getUserPartition();
         Jedis jedis = redis.getMasterResource(partitionType);
         Pipeline p = jedis.pipelined();
-        p.hset("auths", auth, userId);
+        p.hset("auths", auth, getUserId(userName));
         p.sync();
         redis.returnMasterResource(jedis, partitionType);
     }
+
+
     @Override
     public boolean validateRequest(String userName,String authId){
         String userId=getUserId(userName);
-        String auth=getAuthFromUserId(userId);
+        String auth=getAuthFromUserId(userName);
         String user=getUserIdFromAuth(authId);
         return auth.equals(authId) && user.equals(userId);
     }
 
-     private String getAuthFromUserId(String userId){
+    private String getAuthFromUserId(String userName){
         PartitionType partitionType = PartitionType.getUserPartition();
         Jedis jedis = redis.getSlaveResource(partitionType);
         Pipeline p = jedis.pipelined();
-        Response<String>auth=p.hget("auths", userId);
+        String userId=getUserId(userName);
+        String key="user:"+userId;
+        Response<String>auth=p.hget(key, "auth");
         p.sync();
         redis.returnSlaveResource(jedis, partitionType);
         return auth.get();

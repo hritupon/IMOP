@@ -1,0 +1,64 @@
+
+Step1. 
+
+URL: http:localhost:9000/user/add
+
+UserAddRequest PayLoad=
+{
+    "full_name" : "hritupon" ,
+    "user_name" : "hritupon" ,
+    "password" : "hritupon"
+}
+
+
+{
+    "full_name" : "suman" ,
+    "user_name" : "suman" ,
+    "password" : "suman"
+}
+
+Step2.
+
+URL: http:localhost:9000/user/login
+
+Login PayLoad=
+{
+    "user_name" : "hritupon" ,
+    "password" : "hritupon"
+}
+
+
+Step3.
+URL: http:localhost:9000/user/addfollower
+
+{
+    "follower_id" : "2",
+    "user_id" : "1"
+    
+}
+
+Step4.
+
+URL : http:localhost:9000/ingest/topic
+Insert Topic PayLoad=
+{
+    "topic": "Is Modi Biased",
+    "category": "Politics",
+    "user_name" : "hritupon",
+    "auth": "4fedc866-4bdc-45bd-bbed-d202f66fa838",
+    "need_poll": "yes",
+    "permanent": "yes"
+}
+
+
+Step5.
+URL : http:localhost:9000/ingest/opinion
+Insert Topic PayLoad=
+{
+    "post_data":"he is rascal god",
+    "user_name" : "hritupon",
+    "auth": "4fedc866-4bdc-45bd-bbed-d202f66fa838",
+    "topic_id" : "topic:218d50da-fab4-467f-8def-a3c34e3e4693",
+
+}
+

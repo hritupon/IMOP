@@ -42,12 +42,12 @@ public class Post {
 
     }
     public HashMap<String,String> getPostParamsData(){
-        HashMap map= Maps.newHashMap();
+        HashMap<String,String> map= Maps.newHashMap();
         map.put("user_name",userName);
         map.put("data",postData);
         java.util.Date date= new java.util.Date();
         Timestamp timestamp= new Timestamp(date.getTime());
-        map.put("time",timestamp.getTime());
+        map.put("time",timestamp.getTime()+"");
         return map;
     }
 }
