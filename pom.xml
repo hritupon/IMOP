@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <!--dropwizard.version>0.7.1</dropwizard.version-->
-        <dropwizard.version>0.8.1</dropwizard.version>
+        <dropwizard.version>0.7.1</dropwizard.version>
+        <!--dropwizard.version>0.8.4</dropwizard.version-->
         <mainClass>com.opinion.OpinionApplication</mainClass>
 
     </properties>

@@ -8,8 +8,7 @@ import com.hubspot.dropwizard.guice.GuiceBundle;
 import com.opinion.authentication.OpinionAuthenticator;
 import com.opinion.models.UserDetails;
 import io.dropwizard.Application;
-import io.dropwizard.auth.AuthFactory;
-import io.dropwizard.auth.basic.BasicAuthFactory;
+import io.dropwizard.auth.basic.BasicAuthProvider;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 import org.eclipse.jetty.servlets.CrossOriginFilter;
@@ -37,11 +36,8 @@ public class OpinionApplication extends Application<OpinionConfiguration> {
         // Add URL mapping
         cors.addMappingForUrlPatterns(EnumSet.allOf(DispatcherType.class), true, "/*");
 
-        environment.jersey().register(AuthFactory.binder(
-                new BasicAuthFactory<>(
-                        new OpinionAuthenticator(),
-                        "SECURITY REALM",
-                        UserDetails.class)));
+        environment.jersey().register(new BasicAuthProvider<UserDetails>(new OpinionAuthenticator(),
+                "SECURITY REALM"));
 
     }
 

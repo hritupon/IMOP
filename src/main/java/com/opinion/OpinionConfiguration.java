@@ -4,13 +4,12 @@ package com.opinion; /**
 import com.bazaarvoice.dropwizard.assets.AssetsBundleConfiguration;
 import com.bazaarvoice.dropwizard.assets.AssetsConfiguration;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import com.opinion.core.configuration.RedisConfiguration;
 import io.dropwizard.Configuration;
-import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Setter;
-import org.hibernate.validator.constraints.NotEmpty;
-import lombok.Getter;
 import io.dropwizard.client.JerseyClientConfiguration;
+import lombok.Getter;
+import lombok.Setter;
 
 import javax.validation.Valid;
 import javax.validation.constraints.NotNull;

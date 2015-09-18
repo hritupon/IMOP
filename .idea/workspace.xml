@@ -2,91 +2,202 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eb8b69f-9290-47ef-8410-bc8676cab363" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk7_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_marschall_memoryfilesystem_0_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_auth_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_client_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_configuration_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_core_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_jackson_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_jersey_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_jetty_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_lifecycle_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_logging_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_metrics_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_servlets_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_testing_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_util_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_validation_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_views_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_annotation_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_healthchecks_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_httpclient_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jersey2_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jetty9_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_logback_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_servlets_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_argparse4j_argparse4j_0_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_2_9_v20150224.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_el_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_metainf_services_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_test_framework_jersey_test_framework_core_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_test_framework_providers_jersey_test_framework_provider_inmemory_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_debug_all_5_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_auth_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_client_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_configuration_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_core_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_jackson_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_jersey_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_jetty_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_lifecycle_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_logging_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_metrics_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_servlets_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_testing_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_util_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_validation_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_dropwizard_views_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_metainf_services_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_test_framework_jersey_test_framework_core_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_test_framework_providers_jersey_test_framework_provider_inmemory_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_debug_all_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/opinion/resources/TestResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/opinion/models/TestResponse.java" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\OpinionApplication.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\OpinionConfiguration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\OpinionModule.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\authentication\OpinionAuthenticator.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\authentication\class-use\OpinionAuthenticator.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\authentication\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\authentication\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\authentication\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\authentication\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\class-use\OpinionApplication.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\class-use\OpinionConfiguration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\class-use\OpinionModule.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\PartitionedRedis.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\RedisConfiguration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\RedisHost.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\class-use\PartitionedRedis.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\class-use\RedisConfiguration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\class-use\RedisHost.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\configuration\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\RedisPartitionPool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\RedisPool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\SlavePool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\class-use\RedisPartitionPool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\class-use\RedisPool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\class-use\SlavePool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\jedis\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\managed\Redis.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\managed\class-use\Redis.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\managed\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\managed\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\managed\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\core\managed\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\AddFollowerRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\AddFollowerResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\LoginRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\Post.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\PostGetRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\PostGetResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\PostInsertReponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\ResponseCode.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\TopicRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\TopicResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\UserAddRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\UserAddResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\UserDetails.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\AddFollowerRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\AddFollowerResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\LoginRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\Post.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\PostGetRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\PostGetResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\PostInsertReponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\ResponseCode.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\TopicRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\TopicResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\UserAddRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\UserAddResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\class-use\UserDetails.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\PartitionType.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\RedisNamespace.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\TopicCategory.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\class-use\PartitionType.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\class-use\RedisNamespace.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\class-use\TopicCategory.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\enums\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\models\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\RedisSourceRepository.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\class-use\RedisSourceRepository.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\impl\RedisSourceRepositoryImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\impl\class-use\RedisSourceRepositoryImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\impl\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\impl\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\impl\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\impl\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\repository\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\IngestionResource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\RetrievalResource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\UserResource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\class-use\IngestionResource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\class-use\RetrievalResource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\class-use\UserResource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\resources\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\AuthenticationService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\IngestionService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\RetrievalService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\UserService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\class-use\AuthenticationService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\class-use\IngestionService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\class-use\RetrievalService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\class-use\UserService.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\AuthenticationServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\IngestionServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\RetrievalServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\UserServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\class-use\AuthenticationServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\class-use\IngestionServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\class-use\RetrievalServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\class-use\UserServiceImpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\impl\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\com\opinion\services\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\overview-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\overview-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\package-list" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\resources\background.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\resources\tab.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\resources\titlebar.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\resources\titlebar_end.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\apidocs\stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\dependency-reduced-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\javadoc-bundle-options\javadoc-options-javadoc-resources.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\javadoc-bundle-options\package-list" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\opinion-1.0-SNAPSHOT-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\opinion-1.0-SNAPSHOT-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\opinion-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hritupon\IdeaProjects\IMOP\target\original-opinion-1.0-SNAPSHOT.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/opinion/OpinionApplication.class" afterPath="$PROJECT_DIR$/target/classes/com/opinion/OpinionApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/opinion/OpinionConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/com/opinion/OpinionConfiguration.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opinion.iml" afterPath="$PROJECT_DIR$/opinion.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -116,21 +227,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IngestionService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/services/IngestionService.java">
+      <file leaf-file-name="OpinionApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="33" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1105">
+              <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1671#1672#0" expanded="true" />
+                <element signature="e#1703#1704#0" expanded="true" />
+                <element signature="e#1866#1888#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IngestionServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/services/impl/IngestionServiceImpl.java">
+      <file leaf-file-name="BasicAuthProvider.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-auth/0.7.1/dropwizard-auth-0.7.1.jar!/io/dropwizard/auth/basic/BasicAuthProvider.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="612">
-              <caret line="20" column="0" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="1360">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -140,7 +256,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/authentication/OpinionAuthenticator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="59" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,11 +264,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpinionModule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionModule.java">
+      <file leaf-file-name="IngestionResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/IngestionResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="479" max-vertical-offset="1156">
-              <caret line="71" column="20" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="1020">
+              <caret line="32" column="5" selection-start-line="27" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -161,31 +277,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3043">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="3043">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticationService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/services/AuthenticationService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticationServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/services/impl/AuthenticationServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="629">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -193,31 +287,31 @@
       <file leaf-file-name="OpinionConfiguration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="697">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpinionApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java">
+      <file leaf-file-name="opinion.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opinion.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2635136" vertical-offset="0" max-vertical-offset="1139">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestResource.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/TestResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6990132" vertical-offset="0" max-vertical-offset="608">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserResource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/UserResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
-              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -242,8 +336,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/OpinionModule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/OpinionApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/PostGetRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/PostGetResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/PostInsertReponse.java" />
@@ -258,7 +350,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/core/configuration/RedisConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/core/jedis/RedisPool.java" />
         <option value="$PROJECT_DIR$/opinion.yml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/enums/TopicCategories.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/enums/TopicCategory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/PostWithParams.java" />
@@ -291,8 +382,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/services/AuthenticationService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/services/impl/AuthenticationServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/OpinionModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opinion/models/TestResponse.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opinion/resources/TestResource.java" />
       </list>
     </option>
   </component>
@@ -566,6 +660,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opinion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opinion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opinion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opinion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jedis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -933,7 +1091,7 @@
       <workItem from="1442417920192" duration="681000" />
       <workItem from="1442426202452" duration="77000" />
       <workItem from="1442428278833" duration="23000" />
-      <workItem from="1442579611718" duration="4115000" />
+      <workItem from="1442579611718" duration="6716000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <created>1442130809704</created>
@@ -945,41 +1103,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45697000" />
+    <option name="totallyTimeSpent" value="48298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32681867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30944625" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32681867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32681867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31034482" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1015,8 +1173,20 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/opinion/resources/TestResource.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/opinion/authentication/OpinionAuthenticator.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="51" />
+      <option name="time" value="53" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1025,30 +1195,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/opinion.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1088">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="782">
-          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="697">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1071">
@@ -1235,13 +1381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/core/jedis/RedisPartitionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/services/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -1263,14 +1402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opinion.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/services/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -1283,14 +1414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="1020">
           <caret line="41" column="72" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/IngestionResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="1020">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1366,19 +1489,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/UserResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+        <state vertical-scroll-proportion="0.8614865" vertical-offset="0" max-vertical-offset="1037">
           <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/authentication/OpinionAuthenticator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1390,26 +1503,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/models/TestResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/core/jedis/RedisPartitionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.43074325" vertical-offset="459" max-vertical-offset="1717">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/IngestionResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3043">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="1020">
+          <caret line="32" column="5" selection-start-line="27" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-auth/0.7.1/dropwizard-auth-0.7.1.jar!/io/dropwizard/auth/basic/BasicAuthProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="1360">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2635136" vertical-offset="0" max-vertical-offset="1139">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1105">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1866#1888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/OpinionConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="3043">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opinion.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/authentication/OpinionAuthenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opinion/resources/TestResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6990132" vertical-offset="0" max-vertical-offset="608">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
