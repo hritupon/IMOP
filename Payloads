@@ -42,7 +42,7 @@ Step4.
 URL : http:localhost:9000/ingest/topic
 Insert Topic PayLoad=
 {
-    "topic": "Is Modi Biased",
+    "topic": "Is Jrdi Biased",
     "category": "Politics",
     "user_name" : "hritupon",
     "auth": "4fedc866-4bdc-45bd-bbed-d202f66fa838",
