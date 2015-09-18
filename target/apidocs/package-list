@@ -1,0 +1,12 @@
+com.opinion
+com.opinion.authentication
+com.opinion.core.configuration
+com.opinion.core.jedis
+com.opinion.core.managed
+com.opinion.models
+com.opinion.models.enums
+com.opinion.repository
+com.opinion.repository.impl
+com.opinion.resources
+com.opinion.services
+com.opinion.services.impl

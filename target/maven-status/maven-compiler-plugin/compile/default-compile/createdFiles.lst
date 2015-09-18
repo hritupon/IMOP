@@ -1,10 +1,13 @@
 com\opinion\core\configuration\RedisConfiguration.class
 com\opinion\models\enums\RedisNamespace.class
+com\opinion\services\impl\AuthenticationServiceImpl.class
 com\opinion\models\enums\PartitionType.class
 com\opinion\core\configuration\RedisHost.class
 com\opinion\core\jedis\SlavePool.class
+com\opinion\authentication\OpinionAuthenticator.class
 com\opinion\core\jedis\RedisPool.class
 com\opinion\core\jedis\SlavePool$RoundRobinFactory.class
 com\opinion\core\configuration\PartitionedRedis.class
 com\opinion\core\managed\Redis.class
 com\opinion\core\jedis\RedisPartitionPool.class
+com\opinion\services\AuthenticationService.class

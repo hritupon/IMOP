@@ -5,7 +5,6 @@ import com.bazaarvoice.dropwizard.assets.ConfiguredAssetsBundle;
 import com.google.inject.Stage;
 import com.hubspot.dropwizard.guice.GuiceBundle;
 import io.dropwizard.Application;
-import io.dropwizard.Bundle;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 import org.eclipse.jetty.servlets.CrossOriginFilter;
@@ -32,6 +31,12 @@ public class OpinionApplication extends Application<OpinionConfiguration> {
 
         // Add URL mapping
         cors.addMappingForUrlPatterns(EnumSet.allOf(DispatcherType.class), true, "/*");
+
+        /*environment.jersey().register(AuthFactory.binder(
+                new BasicAuthFactory<>(
+                        new OpinionAuthenticator(),
+                        "SECURITY REALM",
+                        UserDetails.class)));*/
 
     }
 
